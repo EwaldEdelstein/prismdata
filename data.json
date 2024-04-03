@@ -1,0 +1,45 @@
+[
+  {
+    "atom": "HOBO",
+    "spectroscopic data": [
+      {
+        "harmonic freq": [
+          { "symm": "a1", "freq": "100" },
+          { "symm": "a2", "freq": "200" }
+        ]
+      },
+      {
+        "anharmonic freq": [
+          {
+            "symm": "a1",
+            "freq": "100"
+          },
+          { "symm": "a2", "freq": "200" }
+        ]
+      }
+    ],
+    "Energies": [{ "ZPE": "100 eH" }],
+    "orbital energies": [
+      {
+        "symm": "a1",
+        "energie": "100 eH"
+      },
+      { "symm": "a2", "freq": "200 eH" }
+    ]
+    ,
+    "geometric data":[{
+        "equilibrium structe": [{
+            "atom": "H", "x":"1", "y":"1", "z":"1"
+        },
+        {"atom": "O",  "x":"2", "y":"2", "z":"2"}]
+    ,
+    "optimized geometry":
+    [{
+        "atom": "H", "x":"1", "y":"1", "z":"1"
+    },
+    {"atom": "O",  "x":"2", "y":"2", "z":"2"}
+    ]}]
+    }]
+
+  
+
